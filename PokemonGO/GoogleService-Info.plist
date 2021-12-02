@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>432642027335-a75hsnpg55pbfe7e1fdrl6gdeg32hmkk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.432642027335-a75hsnpg55pbfe7e1fdrl6gdeg32hmkk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNmooVbb1rZQ4u93qSP1s_9w89Xl48_rM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>432642027335</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CursoIOS.PokemonGO</string>
+	<key>PROJECT_ID</key>
+	<string>pokemon-go-fa93d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokemon-go-fa93d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:432642027335:ios:c4ac3b8ba6f9b59c8d6662</string>
+</dict>
+</plist>
