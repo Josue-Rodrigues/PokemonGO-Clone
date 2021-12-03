@@ -1,6 +1,6 @@
 # PokemonGO-Clone
 
-Projeto mobile desenvolvido em **_Swift_** o qual permite localizar e capturar pokemons, conforme sua posição no mapa.
+Projeto mobile desenvolvido em **_Swift_** o qual permite localizar e capturar pokemons, de acordo com sua posição no mapa.
 
 Foi utilizado para desenvolvimento do aplicativo a plataforma do FireBase para realização dos serviços de autenticação (*Authentication*) e armazenamento das informações em banco dado (*Realtime Database*). Para armazenamento e persistencia dos pokemons capturados, em forma de banco de dados offline, foi utilizado o **_CoreData_**.
 
