@@ -15,6 +15,7 @@ class LoginViewController: UIViewController {
     
     @IBAction func login(_ sender: Any) {
         loginUsuario()
+        print("Login executado com sucesso")
     }
     
     override func viewDidLoad() {
