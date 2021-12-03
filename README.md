@@ -8,8 +8,8 @@ Foi utilizado para desenvolvimento do aplicativo a plataforma do FireBase para r
 
 - Tela principal com campo de Login *(E-mail e Senha)* e Cadastro
 - Tela de cadastro *(Nome, E-mail, Senha e Confirmar Senha)*
-- Tela com mapa dinamico para localização e captura dos pokemnos
+- Tela com mapa dinamico para localização e captura dos pokemons
    * Botão de centralização do mapa
    * Botão de Logoff
    * Botão para acesso ao Pokedex
-- Tela de visualização do Pokedex *(Pokenons Capturados e Não Capturados)*
+- Tela de visualização do Pokedex *(Pokemons Capturados e Não Capturados)*
